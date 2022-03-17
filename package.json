@@ -1,0 +1,29 @@
+{
+    "asset_types": [
+        "Devices",
+        "Edges",
+        "Roles",
+        "Users"
+    ],
+    "author": {
+        "email": "ce.mayank@gmail.com"
+    },
+    "clouds": [],
+    "description": "",
+    "domains": [],
+    "exportRows": false,
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/4/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform"
+    ],
+    "license": "MIT",
+    "name": "Test_System",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": "1.0.0"
+}
